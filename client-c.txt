@@ -2,3 +2,6 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+step 1 add item to box
+step 2 increment count to 2
+step 3 loop until box has 50 items in it

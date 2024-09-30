@@ -2,3 +2,29 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+create a phone app or handheld computer app
+that guides consumer to a product they have searched for
+
+step 1 ask user for item needed
+step 2 search database for location of needed item
+step 3 get location of consumer through tracking
+step 4 Using NSEW for direction guide the consumer to the item
+step 5 output head S 4 rows turn 
+step 6 get location
+step 7 output turn east and head to middle of second aisle
+step 8 get location consumer is next to item
+step 9 output your item is on the right second shelf
+
+                   N
+     ___________________________________
+ | C                                   |    
+ |   =========  ==========  ======     |
+ |                                     |
+ |   =========  ==========  ======     |
+W|                                     |    E
+ |   =========  ==========  ======     | 
+ |                   X                 |  
+ |   =========  ==========  ======     |
+ |_____________________________________|
+
+                 S

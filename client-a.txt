@@ -2,3 +2,37 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+//  variables
+
+set allowedtry = 3
+set userguessnumber = 0
+set usertry = 0
+set RNGnumber = 1-10 
+
+// method
+
+// loop repeats until3 tries or number guessed
+
+Query user " Please guess a number between 1 -10"
+  
+  set userguessnumber=answer
+
+ if userguessnumber= RNGnumber then
+     show "Yay you guessed it
+
+ else
+    If userguessnumber=RNGnumber <>  show "Try Again"
+
+   end if
+  
+end if
+
+set usertry +1
+
+if usertry = <3 show "guess again"
+
+  else show "no more guesses game over"
+  end if
+
+end if
+end loop
